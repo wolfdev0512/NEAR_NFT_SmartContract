@@ -1,0 +1,1 @@
+export const API_TOKEN: string | null = process.env["NFT_STORAGE_API_TOKEN"]
